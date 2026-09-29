@@ -1,0 +1,8 @@
+data/
+__pycache__/
+webapp/__pycache__/
+.tm_tools/
+.lokalise_tm/
+tm_backups/
+*.pyc
+.venv/
